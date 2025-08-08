@@ -1,3 +1,7 @@
+🎓 Pre Final Year B.E CSE (AI & ML) | 🤖 Prompt Engineering Specialist | ⚙️ AI Solutions & Automation Developer | 🔗 LLMs, APIs, Workflows, Integrations |🎨 UI/UX Design Thinker | 📈 Social Media AI Tools Curator |
+
+
+
 - 📫 How to reach me **naren.kg2023aiml@sece.ac.in**
 
 - 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1E5K-cfSKJIBYDI1Or-GGgSG0AopOcwQr/view?usp=drive_link)
