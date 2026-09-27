@@ -1,6 +1,10 @@
 🎓 Pre Final Year B.E CSE (AI & ML) | 🤖 Prompt Engineering Specialist | ⚙️ AI Solutions & Automation Developer | 🔗 LLMs, APIs, Workflows, Integrations |🎨 UI/UX Design Thinker | 📈 Social Media AI Tools Curator |
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Naren182005's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 - 📫 How to reach me **naren.kg2023aiml@sece.ac.in**
 
