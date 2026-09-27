@@ -5,7 +5,7 @@
 - 📫 How to reach me **naren.kg2023aiml@sece.ac.in**
 
 
-- 📄 Know about my experiences [**My Resume**](https://drive.google.com/drive/folders/1ktMOj-FnBcH_e1zvg_BLmcLKTICMT6up)
+- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1XmiuOHn22GggY8MJA659opyebwTqFjxb/view?usp=sharing)
 
 
 # 💻 Tech Stack:
@@ -21,11 +21,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Naren182005's GitHub profile" src="dark_mode.svg" />
-</picture>
+
 
 
 # 📊 GitHub Stats:
