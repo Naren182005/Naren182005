@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Naren KG - AI / ML Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=NAREN%20KG&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20DEEP%20LEARNING%20%7C%20AGENTIC%20AI&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Engineer;Deep+Learning+Enthusiast;Agentic+AI+Builder;Computer+Vision+Developer;Building+Production-Ready+AI+Systems" alt="Typing SVG"/>
