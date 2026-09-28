@@ -59,13 +59,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
 I'm a **CSE (AI & ML) student** passionate about building practical solutions using **Artificial Intelligence, Prompt Engineering, Automation, APIs, Computer Vision, and modern development tools**.
 
 I enjoy experimenting with emerging AI technologies and turning ideas into useful applications, intelligent workflows, and automation systems.
 
-### 🔥 What I Do
+🔥 What I Do
 
 - 🤖 Generative AI & LLM Applications
 - ✍️ Prompt Engineering
@@ -79,14 +79,14 @@ I enjoy experimenting with emerging AI technologies and turning ideas into usefu
 
 ---
 
-## 🧠 AI & Machine Learning
+🧠 AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white)
+Python
+OpenCV
+NumPy
+YOLO
 
-### Areas
+Areas
 
 - Artificial Intelligence
 - Machine Learning
@@ -104,14 +104,13 @@ I enjoy experimenting with emerging AI technologies and turning ideas into usefu
 - AI Automation
 
 ---
+ ✨ Prompt Engineering & LLMs
 
-## ✨ Prompt Engineering & LLMs
+LLM
+Generative AI
+Prompt Engineering
 
-![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
-
-### Prompt Engineering
+Prompt Engineering
 
 - System Prompt Design
 - Prompt Optimization
@@ -125,7 +124,7 @@ I enjoy experimenting with emerging AI technologies and turning ideas into usefu
 - AI Tool Evaluation
 - Workflow Automation
 
-### 🤖 AI Tools I've Explored
+🤖 AI Tools I've Explored
 
 - Qwen
 - QwQ
@@ -147,31 +146,25 @@ I enjoy experimenting with emerging AI technologies and turning ideas into usefu
 
 ---
 
-## 💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ 💻 Programming Languages
 
 - C
 - C++
 - Python
-- JavaScript
+
 
 ---
 
-## 🌐 Web & Mobile Development
+ 🌐 Web & Mobile Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+HTML5
+CSS3
+React
+React Native
+Node.js
+FastAPI
 
-### Technologies
+Technologies
 
 - HTML
 - CSS
@@ -188,21 +181,17 @@ I enjoy experimenting with emerging AI technologies and turning ideas into usefu
 
 ---
 
-## 🗄️ Databases
+ 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+MongoDB
+PostgreSQL
 
 - MongoDB
 - MySQL
 - PostgreSQL
 
----
-
-## 👁️ Computer Vision
-
-### Technologies
+👁️ Computer Vision
+       Technologies
 
 - Python
 - OpenCV
@@ -210,7 +199,7 @@ I enjoy experimenting with emerging AI technologies and turning ideas into usefu
 - MediaPipe
 - NumPy
 
-### Areas
+ Areas
 
 - 📱 Mobile Phone Detection
 - 👥 Person Detection
@@ -227,13 +216,13 @@ I enjoy experimenting with emerging AI technologies and turning ideas into usefu
 
 ---
 
-# 🚀 Featured Projects
+ 🚀 Featured Projects
 
-## 🤖 AI Hiring & Proctoring System
+ 🤖 AI Hiring & Proctoring System
 
 An AI-powered hiring and proctoring system using **Computer Vision and Behavioral Analysis**.
 
-### Features
+ Features
 
 - 📱 Mobile phone detection
 - 👥 Multiple-person detection
@@ -307,13 +296,13 @@ I'm interested in building intelligent solutions for **accessible digital conten
 
 ---
 
-# 🎨 UI/UX & Design
+ 🎨 UI/UX & Design
+Figma
+Canva
+Adobe
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
-### Skills
+Skills
 
 - UI/UX Design
 - Wireframing
@@ -328,11 +317,11 @@ I'm interested in building intelligent solutions for **accessible digital conten
 
 ---
 
-# 🛠️ Tools & Platforms
+🛠️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Git
+GitHub
+VS Code
 
 - Git
 - GitHub
@@ -343,9 +332,8 @@ I'm interested in building intelligent solutions for **accessible digital conten
 - Automation Platforms
 - Cloud Developer Tools
 
----
 
-# 🧩 My AI Workflow
+ 🧩 My AI Workflow
 
 ```text
         💡 IDEA
@@ -371,6 +359,3 @@ I'm interested in building intelligent solutions for **accessible digital conten
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Naren182005&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
