@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-<img src="./assets/avatar.png" width="170" alt="Naren KG"/>
+
 
 <br/>
 
