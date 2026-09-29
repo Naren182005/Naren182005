@@ -1,124 +1,270 @@
-# ==============================================================================
-# Profile Configuration
-# NAREN KG — GitHub Profile
-# ==============================================================================
+<!-- ========================================================= -->
+<!--                    NAREN KG — GITHUB PROFILE              -->
+<!-- ========================================================= -->
 
-github_username: "naren1872005"
-display_name: "Naren KG"
-headline: "🤖 Building AI Agents & Training Intelligent Systems"
-tagline: "AI/ML Engineer • Deep Learning • Agentic AI"
+<div align="center">
 
-typing_lines:
-  - "AI / ML Engineer"
-  - "Deep Learning & Model Training"
-  - "Agentic AI Developer"
-  - "Building Production AI Systems"
-  - "Python | TensorFlow | PyTorch | LangChain"
+# 🤖 Naren KG
 
-bio: |
-  I'm an **AI / ML Engineer** specializing in **Deep Learning, Generative AI, and Agentic AI**. I enjoy building intelligent systems that move beyond experimentation into practical, production-ready applications.
+### AI / ML Engineer • Deep Learning • Agentic AI
 
-  * 🤖 **Currently:** Building and deploying AI-powered applications and intelligent agents using **Python, TensorFlow, PyTorch, LangChain, LangGraph, and FastAPI**.
-  * 🧠 **AI Focus:** Deep Learning, Machine Learning, Generative AI, RAG, and Agentic AI.
-  * 🚀 **Production:** Designed and deployed **5+ AI agents on Hugging Face Spaces**, focused on practical AI-powered solutions.
-  * 👁️ **Computer Vision:** Developed real-time AI systems for mobile-phone detection, multiple-person detection, gaze tracking, and behavioral monitoring.
-  * 💼 **Experience:** Machine Learning Engineer Intern at **Payoda Technologies**, working on real-time ML-based proctoring systems.
-  * 🤝 **Collaboration:** Open to collaborating on AI/ML projects, Generative AI, Agentic AI, and ambitious intelligent applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Deep+Learning+%26+Model+Training;Agentic+AI+Developer;Generative+AI+Enthusiast;Building+Production+AI+Systems" />
 
-links:
-  linkedin: "https://www.linkedin.com/in/naren-kg/"
-  x: ""
-  email: "naren1872005@zohomail.in"
-  portfolio: ""
-  github: "https://github.com/naren1872005"
+<br/>
 
-skills:
-  - name: "Python"
-    level: 90
-    category: "Programming"
-  - name: "Machine Learning"
-    level: 86
-    category: "AI / ML"
-  - name: "Deep Learning"
-    level: 84
-    category: "AI / ML"
-  - name: "Generative AI"
-    level: 84
-    category: "AI / ML"
-  - name: "LangChain / LangGraph"
-    level: 82
-    category: "Agentic AI"
-  - name: "TensorFlow / Keras"
-    level: 82
-    category: "AI / ML"
-  - name: "PyTorch"
-    level: 78
-    category: "AI / ML"
-  - name: "FastAPI"
-    level: 78
-    category: "Backend"
-  - name: "RAG"
-    level: 80
-    category: "Generative AI"
-  - name: "PostgreSQL / MongoDB"
-    level: 74
-    category: "Databases"
+<img src="https://komarev.com/ghpvc/?username=naren1872005&label=Profile%20Views&color=0e75b6&style=flat" />
 
-tech_stack:
-  - category: "AI & Machine Learning"
-    icons: "python,tensorflow,pytorch,scikitlearn"
-  - category: "Generative & Agentic AI"
-    icons: "langchain,python"
-  - category: "Backend & APIs"
-    icons: "fastapi,python,postgresql,mongodb"
-  - category: "Data Science"
-    icons: "numpy,pandas,jupyter"
-  - category: "Developer Tools"
-    icons: "git,github,vscode,postman,firebase"
-  - category: "AI Development Tools"
-    icons: "githubcopilot"
+</div>
 
-human_side:
-  - title: "🤖 Current Obsession"
-    desc: "Exploring Agentic AI and building intelligent AI agents that can solve real-world problems."
-  - title: "🧠 AI Mindset"
-    desc: "I enjoy understanding how models learn, improving their performance, and turning them into practical applications."
-  - title: "⚡ Philosophy"
-    desc: "Build intelligent systems that solve real problems—not just impressive demos."
+---
 
-bento:
-  production_focus:
-    - title: "🤖 Agentic AI"
-      desc: "Building and deploying production-ready AI agents using LangChain, LangGraph and Python"
-    - title: "🧠 Deep Learning"
-      desc: "Training and deploying ML/DL models using TensorFlow, Keras and PyTorch"
-    - title: "👁️ Computer Vision"
-      desc: "Real-time detection, behavioral monitoring, gaze tracking and AI-powered proctoring"
-    - title: "⚡ Generative AI"
-      desc: "RAG pipelines, intelligent agents and LLM-powered applications"
+## 🧠 About Me
 
-  milestones:
-    - badge: "🏆 Hackathon Wins"
-      desc: "Multiple 1st-place achievements across hackathons and project competitions"
-    - badge: "🤖 5+ AI Agents"
-      desc: "Designed and deployed production-ready AI agents on Hugging Face Spaces"
-    - badge: "💼 ML Engineer Intern"
-      desc: "Machine Learning Engineer Intern at Payoda Technologies"
-    - badge: "👁️ AI Proctoring"
-      desc: "Built real-time ML systems for detection and behavioral monitoring"
+I'm an **AI / ML Engineer** specializing in **Deep Learning, Generative AI, and Agentic AI**.
 
-footer_text: "Let's build intelligent systems that solve real-world problems."
+I enjoy building intelligent systems that move beyond experimentation into practical, production-ready applications.
 
-portrait:
-  source_image: "assets/source-photo.jpg"
-  grid_spacing_px: 8
-  canvas_size_px: 1000
-  color_palette: "original"
-  duotone_light: "#ffffff"
-  duotone_dark: "#161b22"
-  reveal_style: "rows"
+- 🤖 Building and deploying **AI-powered applications and intelligent agents**
+- 🧠 Focused on **Machine Learning, Deep Learning, Generative AI, RAG & Agentic AI**
+- 🚀 Designed and deployed **5+ AI agents on Hugging Face Spaces**
+- 👁️ Experienced in **Computer Vision and real-time detection systems**
+- 💼 Machine Learning Engineer Intern at **Payoda Technologies**
+- ⚡ Interested in building scalable AI solutions that solve real-world problems
+- 🤝 Open to collaborating on **AI/ML, Generative AI and Agentic AI projects**
 
+---
 
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Agentic AI
+
+Building intelligent AI agents using:
+
+- LangChain
+- LangGraph
+- Generative AI
+- RAG
+- LLM-powered workflows
+- Python
+
+</td>
+
+<td width="50%">
+
+### 🧠 Deep Learning
+
+Working with:
+
+- TensorFlow
+- Keras
+- PyTorch
+- Scikit-learn
+- NumPy
+- Pandas
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 👁️ Computer Vision
+
+Building systems for:
+
+- Real-time object detection
+- Mobile phone detection
+- Multiple-person detection
+- Gaze tracking
+- Behavioral monitoring
+
+</td>
+
+<td width="50%">
+
+### ⚡ AI Applications
+
+Developing:
+
+- Production AI agents
+- RAG applications
+- ML APIs
+- AI-powered automation
+- Intelligent web applications
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 Experience
+
+### 🧑‍💻 Machine Learning Engineer Intern
+
+**Payoda Technologies — Coimbatore**
+
+`Feb 2026`
+
+Worked on real-time machine learning systems involving:
+
+- 📱 Mobile phone detection
+- 👥 Multiple-person detection
+- 🚫 No-person detection
+- 👁️ Gaze tracking
+- 🎙️ Lip-sync analysis
+- 🧠 Behavioral monitoring
+
+---
+
+# 🔥 Featured Projects
+
+## 🛡️ AI Proctoring System
+
+An AI-powered proctoring system designed for candidate monitoring during assessments.
+
+### Key Features
+
+- 📱 Mobile phone detection
+- 👥 Multiple-person detection
+- 🚫 No-person detection
+- 👁️ Gaze direction tracking
+- 🎙️ Lip-sync verification
+- 🧠 Candidate behavioral monitoring
+
+---
+
+## 🚴 SafeRide Rewards
+
+An AI-powered road safety application that allows citizens to report helmetless riders using **GPS-tagged photos**.
+
+### Key Features
+
+- 📍 GPS-based reporting
+- 📸 Image-based verification
+- 🤖 AI-powered verification
+- 🪖 Helmetless rider detection
+- ⛽ Reward redemption system
+
+---
+
+## 🛍️ Glow 24
+
+A dynamic **e-commerce web application** created for a hair and skincare product line.
+
+### Focus
+
+- Modern UI
+- User-friendly navigation
+- Product experience
+- Business dashboard
+- Responsive web experience
+
+---
+
+# 🤖 AI Agents
+
+I've built and deployed multiple practical AI agents, including:
+
+| Agent | Purpose |
+|---|---|
+| 🔐 Password Saver | Secure password management workflow |
+| 🔳 QR Generator | Dynamic QR generation |
+| 📧 Spam Email Detector | AI-based spam email classification |
+
+---
+
+# 🏆 Achievements
+
+### 🥇 Hack IT On
+Secured **1st Place** among 300 participants — 2025
+
+### 🥇 FESTRONIX
+Secured **1st Place** among Top 50 teams — 2025
+
+### 🥇 NEURA NEXA — Hack Attack
+Secured **1st Place** in Hackathon — 2025
+
+### 🥇 FRESHATHON
+Secured **1st Place** in Project Expo — 2023
+
+### 🥇 AI Credit Course
+Participated in an **International Course Program** — 2025
+
+### 🏅 KADALKALAM
+Secured **5th Position** with TN CARD — 2025
+
+---
+
+# 🧰 Tech Stack
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
+
+**Python • TensorFlow • Keras • PyTorch • Scikit-learn**
+
+---
+
+## 🧠 Generative AI & Agentic AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**LangChain • LangGraph • RAG • Generative AI • AI Agents**
+
+---
+
+## ⚡ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" />
+</p>
+
+**FastAPI • PostgreSQL • MongoDB • MySQL**
+
+---
+
+## 📊 Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,jupyter" />
+</p>
+
+**NumPy • Pandas • Matplotlib • Seaborn • Jupyter • Google Colab**
+
+---
+
+## 🛠️ Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+</p>
+
+**Git • GitHub • VS Code • Postman • Firebase • IntelliJ • Anaconda**
+
+---
+
+# 📚 Core Concepts
+
+```text
+Machine Learning
+Deep Learning
+Generative AI
+Agentic AI
+Retrieval-Augmented Generation (RAG)
+Data Structures & Algorithms
+Object-Oriented Programming
+Model Training
+Model Deployment
+Computer Vision
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    NAREN KG — GITHUB PROFILE                   -->
