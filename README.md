@@ -1,3 +1,125 @@
+# ==============================================================================
+# Profile Configuration
+# NAREN KG — GitHub Profile
+# ==============================================================================
+
+github_username: "naren1872005"
+display_name: "Naren KG"
+headline: "🤖 Building AI Agents & Training Intelligent Systems"
+tagline: "AI/ML Engineer • Deep Learning • Agentic AI"
+
+typing_lines:
+  - "AI / ML Engineer"
+  - "Deep Learning & Model Training"
+  - "Agentic AI Developer"
+  - "Building Production AI Systems"
+  - "Python | TensorFlow | PyTorch | LangChain"
+
+bio: |
+  I'm an **AI / ML Engineer** specializing in **Deep Learning, Generative AI, and Agentic AI**. I enjoy building intelligent systems that move beyond experimentation into practical, production-ready applications.
+
+  * 🤖 **Currently:** Building and deploying AI-powered applications and intelligent agents using **Python, TensorFlow, PyTorch, LangChain, LangGraph, and FastAPI**.
+  * 🧠 **AI Focus:** Deep Learning, Machine Learning, Generative AI, RAG, and Agentic AI.
+  * 🚀 **Production:** Designed and deployed **5+ AI agents on Hugging Face Spaces**, focused on practical AI-powered solutions.
+  * 👁️ **Computer Vision:** Developed real-time AI systems for mobile-phone detection, multiple-person detection, gaze tracking, and behavioral monitoring.
+  * 💼 **Experience:** Machine Learning Engineer Intern at **Payoda Technologies**, working on real-time ML-based proctoring systems.
+  * 🤝 **Collaboration:** Open to collaborating on AI/ML projects, Generative AI, Agentic AI, and ambitious intelligent applications.
+
+links:
+  linkedin: "https://www.linkedin.com/in/naren-kg/"
+  x: ""
+  email: "naren1872005@zohomail.in"
+  portfolio: ""
+  github: "https://github.com/naren1872005"
+
+skills:
+  - name: "Python"
+    level: 90
+    category: "Programming"
+  - name: "Machine Learning"
+    level: 86
+    category: "AI / ML"
+  - name: "Deep Learning"
+    level: 84
+    category: "AI / ML"
+  - name: "Generative AI"
+    level: 84
+    category: "AI / ML"
+  - name: "LangChain / LangGraph"
+    level: 82
+    category: "Agentic AI"
+  - name: "TensorFlow / Keras"
+    level: 82
+    category: "AI / ML"
+  - name: "PyTorch"
+    level: 78
+    category: "AI / ML"
+  - name: "FastAPI"
+    level: 78
+    category: "Backend"
+  - name: "RAG"
+    level: 80
+    category: "Generative AI"
+  - name: "PostgreSQL / MongoDB"
+    level: 74
+    category: "Databases"
+
+tech_stack:
+  - category: "AI & Machine Learning"
+    icons: "python,tensorflow,pytorch,scikitlearn"
+  - category: "Generative & Agentic AI"
+    icons: "langchain,python"
+  - category: "Backend & APIs"
+    icons: "fastapi,python,postgresql,mongodb"
+  - category: "Data Science"
+    icons: "numpy,pandas,jupyter"
+  - category: "Developer Tools"
+    icons: "git,github,vscode,postman,firebase"
+  - category: "AI Development Tools"
+    icons: "githubcopilot"
+
+human_side:
+  - title: "🤖 Current Obsession"
+    desc: "Exploring Agentic AI and building intelligent AI agents that can solve real-world problems."
+  - title: "🧠 AI Mindset"
+    desc: "I enjoy understanding how models learn, improving their performance, and turning them into practical applications."
+  - title: "⚡ Philosophy"
+    desc: "Build intelligent systems that solve real problems—not just impressive demos."
+
+bento:
+  production_focus:
+    - title: "🤖 Agentic AI"
+      desc: "Building and deploying production-ready AI agents using LangChain, LangGraph and Python"
+    - title: "🧠 Deep Learning"
+      desc: "Training and deploying ML/DL models using TensorFlow, Keras and PyTorch"
+    - title: "👁️ Computer Vision"
+      desc: "Real-time detection, behavioral monitoring, gaze tracking and AI-powered proctoring"
+    - title: "⚡ Generative AI"
+      desc: "RAG pipelines, intelligent agents and LLM-powered applications"
+
+  milestones:
+    - badge: "🏆 Hackathon Wins"
+      desc: "Multiple 1st-place achievements across hackathons and project competitions"
+    - badge: "🤖 5+ AI Agents"
+      desc: "Designed and deployed production-ready AI agents on Hugging Face Spaces"
+    - badge: "💼 ML Engineer Intern"
+      desc: "Machine Learning Engineer Intern at Payoda Technologies"
+    - badge: "👁️ AI Proctoring"
+      desc: "Built real-time ML systems for detection and behavioral monitoring"
+
+footer_text: "Let's build intelligent systems that solve real-world problems."
+
+portrait:
+  source_image: "assets/source-photo.jpg"
+  grid_spacing_px: 8
+  canvas_size_px: 1000
+  color_palette: "original"
+  duotone_light: "#ffffff"
+  duotone_dark: "#161b22"
+  reveal_style: "rows"
+
+
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    NAREN KG — GITHUB PROFILE                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
